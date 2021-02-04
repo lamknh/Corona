@@ -1,0 +1,30 @@
+/*layout*/
+body{
+    margin : 0 auto;
+}
+header{
+    height : 10vh;
+    background: #000;
+}
+
+section{
+    height : 80vh;
+}
+
+/*styling*/
+section{
+	display : flex;
+	margin-left : auto;
+}
+section #title{
+	margin : auto;
+}
+
+section h1{
+	font-size : 3rem;
+}
+
+footer{
+    height : 10vh;
+    background : #222;
+}
