@@ -8,7 +8,7 @@
 	<title>사회적 거리두기</title>
 	
 	<!-- css style -->
-		<link rel="stylesheet" type="text/css" href="././resources/css/index.css" />
+	<link rel="stylesheet" type="text/css" href="././resources/css/index.css" />
 	<!-- web icon -->
 	
     <!-- web font -->
@@ -23,7 +23,7 @@
 		<div id="title">
 			<h1>사회적 거리두기</h1>
 		</div>
-		<a href = "<c:url value=".\WEB-INF\views\map.jsp"/>">지도</a>
+		<a href = "WEB-INF\views\map.jsp">지도</a>
 	</section>
 	<footer>
 	</footer>
